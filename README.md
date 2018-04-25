@@ -1,10 +1,3 @@
-Common
-======
+This repository is obsolete.  The contents has been merged into the [ansible-playbooks][1] repo.
 
-Role that configures APT for other roles, it: 
-
-* Updated and upgrades the packages 
-* Installs some usefull packages
-* Configures unattended upgrades 
- 
-For configurable parameters see `defaults/main.yml`.
+[1]: https://github.com/open-craft/ansible-playbooks
